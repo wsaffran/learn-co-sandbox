@@ -1,5 +1,5 @@
-const person = 
-  {name: "Awesome Name", 
+const person = {
+  name: "Awesome Name", 
   occupation: {
     title: "Senior Manager of Awesome", 
     yearsHeld: 2},
